@@ -1,0 +1,8 @@
+C:\Users\Usuario\Documents\Coco\Algoritmos de ordenacion reto 1\Algoritmos de ordenacion reto 1\bin\Debug\Algoritmos de ordenacion reto 1.exe.config
+C:\Users\Usuario\Documents\Coco\Algoritmos de ordenacion reto 1\Algoritmos de ordenacion reto 1\bin\Debug\Algoritmos de ordenacion reto 1.exe
+C:\Users\Usuario\Documents\Coco\Algoritmos de ordenacion reto 1\Algoritmos de ordenacion reto 1\bin\Debug\Algoritmos de ordenacion reto 1.pdb
+C:\Users\Usuario\Documents\Coco\Algoritmos de ordenacion reto 1\Algoritmos de ordenacion reto 1\obj\Debug\Algoritmos de ordenacion reto 1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Coco\Algoritmos de ordenacion reto 1\Algoritmos de ordenacion reto 1\obj\Debug\Algoritmos de ordenacion reto 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\Coco\Algoritmos de ordenacion reto 1\Algoritmos de ordenacion reto 1\obj\Debug\Algoritmos de ordenacion reto 1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Coco\Algoritmos de ordenacion reto 1\Algoritmos de ordenacion reto 1\obj\Debug\Algoritmos de ordenacion reto 1.exe
+C:\Users\Usuario\Documents\Coco\Algoritmos de ordenacion reto 1\Algoritmos de ordenacion reto 1\obj\Debug\Algoritmos de ordenacion reto 1.pdb
